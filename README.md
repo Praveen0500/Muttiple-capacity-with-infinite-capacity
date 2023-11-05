@@ -1,4 +1,4 @@
-# Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
+# 5.Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## DEVELOPED BY : PRAVEEN S
 ## REG NO: 212222240078
 ## Aim :
